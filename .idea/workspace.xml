@@ -3,6 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="9a49cb21-8082-4914-aedc-f38183ebe798" name="Changes" comment="First commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Demos/JCA/HashDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demos/JCA/HashDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Demos/JCA/MacDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demos/JCA/MacDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Demos/JCA/SymmetricCipherDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demos/JCA/SymmetricCipherDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Demos/JCA/SymmetricCipherIVDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demos/JCA/SymmetricCipherIVDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Demos/JCA/SymmetricCipherSecRandomDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demos/JCA/SymmetricCipherSecRandomDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Demos/OpenSSL/commands-symmetric-crypto.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demos/OpenSSL/commands-symmetric-crypto.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +32,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Utilizador/OneDrive - Instituto Superior de Engenharia de Lisboa/5º Semestre/Seg Inf/1º Trabalho/SegInf_Ex5&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
@@ -72,6 +79,8 @@
       <option name="presentableId" value="Default" />
       <updated>1664449588990</updated>
       <workItem from="1664449603947" duration="609000" />
+      <workItem from="1665049182313" duration="619000" />
+      <workItem from="1665050071006" duration="95000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1664449719213</created>
